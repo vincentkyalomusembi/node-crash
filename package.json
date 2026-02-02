@@ -1,0 +1,12 @@
+{
+  "name": "node_crash",
+  "version": "1.0.0",
+  "description": "Node js crash course",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vincent kyalo",
+  "license": "MIT"
+}
